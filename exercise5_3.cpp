@@ -11,7 +11,8 @@ using namespace std;
         return n;
     }
     int main(){
-        
-        cout << cheetah(30);
+        int x;
+        cin >> x;
+        cout << cheetah(x);
       
     }
